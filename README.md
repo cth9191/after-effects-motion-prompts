@@ -27,7 +27,7 @@ Attachment paths in each prompt are relative to that example's folder (`examples
 
 A fast, connected workflow bumper: idea → storyboard → editable pieces → timeline → revision → CHASE AI.
 
-[![Watch 1. Chase AI Workflow](media/posters/chase.jpg)](https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/videos/chase.mp4)
+https://github.com/user-attachments/assets/62f10611-daa1-4225-a73d-990dc6bdadf4
 
 [Watch / download MP4](https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/videos/chase.mp4) · **[Open the build prompt](examples/chase-ai/build-prompt.md)** · [Example guide](examples/chase-ai/README.md)
 
@@ -225,7 +225,7 @@ The success criterion is a clear workflow with the reference’s sense of moment
 
 An announcement for a fictional AI Kanban product, with a clay kite character, tactile cards, quick copy reveals and an audible instrumental groove.
 
-[![Watch 2. KITE Pocket World](media/posters/kite.jpg)](https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/videos/kite.mp4)
+https://github.com/user-attachments/assets/dbe47f7d-ef5c-4f19-a492-521a7e95a4bc
 
 [Watch / download MP4](https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/videos/kite.mp4) · **[Open the build prompt](examples/kite/build-prompt.md)** · [Example guide](examples/kite/README.md)
 
@@ -274,7 +274,7 @@ Preserve existing projects. Check the actual render for readable copy, clean mas
 
 One collaboration board with eight notes, editable lettering, animated cursors and connected camera moves that pull back into a loop.
 
-[![Watch 3. Whiteboard Loop](media/posters/whiteboard.jpg)](https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/videos/whiteboard.mp4)
+https://github.com/user-attachments/assets/6b12c8be-28a9-4491-9ee2-ae60cd49b781
 
 [Watch / download MP4](https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/videos/whiteboard.mp4) · **[Open the build prompt](examples/whiteboard/build-prompt.md)** · [Example guide](examples/whiteboard/README.md)
 
