@@ -27,7 +27,7 @@ Attachment paths in each prompt are relative to that example's folder (`examples
 
 A fast, connected workflow bumper: idea → storyboard → editable pieces → timeline → revision → CHASE AI.
 
-<video controls width="960" poster="https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/posters/chase.jpg" src="https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/videos/chase.mp4"></video>
+[![Watch 1. Chase AI Workflow](media/posters/chase.jpg)](https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/videos/chase.mp4)
 
 [Watch / download MP4](https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/videos/chase.mp4) · **[Open the build prompt](examples/chase-ai/build-prompt.md)** · [Example guide](examples/chase-ai/README.md)
 
@@ -225,7 +225,7 @@ The success criterion is a clear workflow with the reference’s sense of moment
 
 An announcement for a fictional AI Kanban product, with a clay kite character, tactile cards, quick copy reveals and an audible instrumental groove.
 
-<video controls width="960" poster="https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/posters/kite.jpg" src="https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/videos/kite.mp4"></video>
+[![Watch 2. KITE Pocket World](media/posters/kite.jpg)](https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/videos/kite.mp4)
 
 [Watch / download MP4](https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/videos/kite.mp4) · **[Open the build prompt](examples/kite/build-prompt.md)** · [Example guide](examples/kite/README.md)
 
@@ -274,7 +274,7 @@ Preserve existing projects. Check the actual render for readable copy, clean mas
 
 One collaboration board with eight notes, editable lettering, animated cursors and connected camera moves that pull back into a loop.
 
-<video controls width="960" poster="https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/posters/whiteboard.jpg" src="https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/videos/whiteboard.mp4"></video>
+[![Watch 3. Whiteboard Loop](media/posters/whiteboard.jpg)](https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/videos/whiteboard.mp4)
 
 [Watch / download MP4](https://github.com/cth9191/after-effects-motion-prompts/raw/refs/heads/main/media/videos/whiteboard.mp4) · **[Open the build prompt](examples/whiteboard/build-prompt.md)** · [Example guide](examples/whiteboard/README.md)
 
